@@ -1,9 +1,37 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "data": [
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id": 2,
+      "image_url": "https://m.media-amazon.com/images/I/71PpwN9ZsuL._AC_UY218_.jpg",
+      "book_name": "The End of Harry Potter?",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": 1499,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": 1499,
+      "borrowed": false,
+      "id": 3
+    }
+  ]
 }
