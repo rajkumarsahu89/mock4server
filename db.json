@@ -1,69 +1,14 @@
 {
-  "data": [
-    {
-      "id": 1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
-    },
-    {
-      "id": 2,
-      "image_url": "https://m.media-amazon.com/images/I/71PpwN9ZsuL._AC_UY218_.jpg",
-      "book_name": "The End of Harry Potter?",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2020",
-      "publisher": "Bloomsbury",
-      "cost": 1499,
-      "borrowed": false
-    },
-    {
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2020",
-      "publisher": "Bloomsbury",
-      "cost": 1499,
-      "borrowed": false,
-      "id": 3
-    }
-  ],
-  
-   "cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 2,
-      "brand": "Tata",
-			"type":"AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    }
-  ],
-"wishlisted_cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    }
-  ]
+  "hotels":[
+  {
+    "category": "Family",
+    "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+    "type_of_room": "AC",
+    "bed_type": "Double",
+		"no_of_persons":"2",
+		"capacity":"3".
+		"cost":"4000",
+		"booked":false,
+  }
+]
 }
