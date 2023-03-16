@@ -11,5 +11,6 @@
 		"cost":"4000",
 		"booked":false
   }
-]
+],
+	"users":[]
 }
